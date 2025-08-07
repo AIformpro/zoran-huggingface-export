@@ -1,0 +1,18 @@
+# Python cache files
+__pycache__/
+*.pyc
+
+# Virtual environment
+.venv/
+.env/
+
+# MacOS
+.DS_Store
+
+# HuggingFace artifacts
+datasets/
+models/
+
+# Archive files
+*.zip
+*.tar.gz
